@@ -1,4 +1,4 @@
-# Multi-VSL-WACV-2025-Submission
+# Multi-VSL-WACV-2025
 
 ## Overview
 Vision-based sign language recognition is an extensively
