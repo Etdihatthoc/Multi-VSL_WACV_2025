@@ -18,7 +18,7 @@ performance improvement of up to 19.75% compared to
 models trained on single-view data.
 
 ## Data
-Video data download link: https://drive.google.com/drive/folders/1VcI_dmQRsG3pk8ohyqznH3jsAfRUngIR?usp=sharing
+Video data download link: https://drive.google.com/drive/folders/1yUU1m2hy_CjaXDDoR_6i9Y3T1XL2pD4C?usp=sharing
 
 ## Checkpoints
 Checkpoints download link: https://drive.google.com/drive/folders/1l820AALsFHOxnFVQiJR82eNkKVTv91mj?usp=sharing
